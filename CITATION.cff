@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this research software or its derived data, please cite this repository."
+title: "PWP28: Pacific Warm Pool Time-Series Analysis and Reproducibility Materials"
+type: software
+authors:
+  - family-names: Machado
+    given-names: Fabio Vieira
+version: 1.0.0
+repository-code: "https://github.com/blackbeltbjj/PWP28-Physics-Education"
+keywords:
+  - Pacific Warm Pool
+  - sea surface temperature
+  - time series
+  - reproducibility
+  - climate education
