@@ -1,0 +1,21 @@
+﻿# Python temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Duplicate release packages
+/PWP28-Physics-Education_GitHub_Code_v1/
+/PWP28-Physics-Education_GitHub_Code_v1.0.0.zip
+
+# Temporary and backup files
+*.tmp
+*.bak
+~$*

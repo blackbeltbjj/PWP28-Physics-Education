@@ -1,0 +1,22 @@
+﻿{
+    "dataset_title":  "PWP28 daily canonical area, 1981-09-01 to 2026-09-30 (RBEF educational analysis)",
+    "author":  "Fabio Vieira Machado",
+    "temporal_start":  "1981-09-01",
+    "temporal_end":  "2026-09-30",
+    "observation_count":  16466,
+    "threshold_celsius":  28,
+    "variable":  "pwp28_area_million_km2",
+    "units":  "million square kilometres",
+    "derived_csv":  "data/derived/RBEF_PWP28_daily_area_19810901_20260930.csv",
+    "derived_sha256":  "4DA00D092E9B94EF182838499582C21DC34475D9F0EAA9E34A3E6C3C137C29FB",
+    "source_filename":  "JPO04_daily_pwp_geometry.csv",
+    "source_sha256":  "05D0D99884E248DEFF75D50971468F90932AE337DA7C3C2009BA2323299D80EB",
+    "source_column":  "canonical_area_million_km2",
+    "source_filter":  "threshold_c == 28.0",
+    "source_row_count":  49398,
+    "original_observations":  "NOAA OISST v2.1 daily 0.25-degree sea-surface temperature",
+    "archive_doi":  null,
+    "archive_status":  "Unverified; do not cite a Zenodo DOI until verified",
+    "audit":  "RBEF10_audit_extract_pwp28_v1.0.0.py (user-reported PASS)",
+    "limitation":  "Area series alone does not reproduce spatial Figure 1 or upstream SST-to-area computation."
+}
