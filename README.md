@@ -24,3 +24,13 @@ This initial staged package contains only the validated daily area series and pr
 ## Data origin
 
 Underlying SST: NOAA OISST v2.1 (daily, 0.25-degree grid). The source SST NetCDF files are not included in this package.
+
+## PWP28 Physics Education — Reproducibility Materials
+
+The repository includes additional scientific reproducibility materials supporting the Pacific Warm Pool time-series analysis:
+
+- **RBEF04–RBEF10:** Python programs for exploratory analysis, trend estimation, seasonality, anomalies, residual diagnostics, forecasting, and data auditing.
+- **Figure 1:** Original Python script, spatial comparison figure, dependencies, and execution documentation.
+- **Scientific data:** Audited daily PWP28 area dataset and associated provenance and SHA-256 records.
+
+The complete numerical reproduction of all manuscript figures has not yet been independently verified. The original NOAA SST NetCDF inputs required for regenerating Figure 1 are not included in this repository.
