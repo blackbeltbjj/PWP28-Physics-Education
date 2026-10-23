@@ -34,3 +34,8 @@ The repository includes additional scientific reproducibility materials supporti
 - **Scientific data:** Audited daily PWP28 area dataset and associated provenance and SHA-256 records.
 
 The complete numerical reproduction of all manuscript figures has not yet been independently verified. The original NOAA SST NetCDF inputs required for regenerating Figure 1 are not included in this repository.
+## Archived scientific release
+
+**Version 1.0.0 — Zenodo DOI:** [10.5281/zenodo.23584235](https://doi.org/10.5281/zenodo.23584235)
+
+The archived release contains the scientific code, derived PWP28 dataset, manuscript figures, and reproducibility documentation.
